@@ -1,0 +1,18 @@
+Network Health Check Report
+Time: 2025-12-26 21:56:14.106301
+----------------------------------------
+
+[+] IP Configuration:
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+
+[+] Gateway Information:
+default via 192.168.0.1 dev wlp6s0 proto dhcp src 192.168.0.101 metric 600 
+192.168.0.0/24 dev wlp6s0 proto kernel scope link src 192.168.0.101 metric 600
+
+[+] Gateway Ping:
+Reachable
+
+[+] Internet Connectivity:
+Working
+
+[+] DNS Resolution: Working
